@@ -8,7 +8,7 @@
 -- INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (8, 'I have bed bugs!', 'charity', 800.00, '2014-06-30', '2014-06-31'),
 -- INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, 'I want to teach English in China', 'charity', 3000.00, '2013-06-30', '2013-09-30'),
 -- INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, 'Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
--- 
+--
 -- INSERT INTO users (id, name, age) VALUES (1, 'Finnebar', 17),
 -- INSERT INTO users (id, name, age) VALUES (2, 'Bear', 6),
 -- INSERT INTO users (id, name, age) VALUES (3, 'Iguana', 4),
@@ -29,7 +29,7 @@
 -- INSERT INTO users (id, name, age) VALUES (18, 'Pacha', 5),
 -- INSERT INTO users (id, name, age) VALUES (19, 'Ena', 24),
 -- INSERT INTO users (id, name, age) VALUES (20, 'Katie', 24);
--- 
+--
 -- INSERT INTO pledges (id, amount, user_id, project_id) VALUES (1, 10.00, 1, 2),
 -- INSERT INTO pledges (id, amount, user_id, project_id) VALUES (2, 20.00, 1, 3),
 -- INSERT INTO pledges (id, amount, user_id, project_id) VALUES (3, 40.00, 1, 4),
