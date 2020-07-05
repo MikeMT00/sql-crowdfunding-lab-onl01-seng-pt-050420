@@ -11,3 +11,10 @@ CREATE TABLE projects (
   start_date TEXT,
   end_date TEXT,
 );
+
+CREATE TABLE pledges (
+  id INTEGER PRIMARY KEY,
+  amount REAL,
+  user_id INTEGER,
+  project_id INTEGER,
+);
