@@ -11,3 +11,5 @@ CREATE TABLE projects (
   start_date TEXT, 
   end_date TEXT,
 );
+
+
